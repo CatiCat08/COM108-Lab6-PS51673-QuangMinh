@@ -39,16 +39,16 @@ hai hàm chỉ thực hiện tính toán không dùng printf để int màn hìn
 - Lỗi / Cách sửa: nhớ chat do viết code bị trùng hàm nê text ko được [alt text](image-7.png)
 
 ### Lần 6: Bài 2 (Dự phòng)
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: chờ chấm 
+- Lỗi / Cách sửa: có dùng AI fix và AI đã fix và VScode cứ bảo faile và em cũng không bít cách fix sao cho nó không faile nữa
 
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
 - Trạng thái: 
-- Prompt hỏi AI (nếu có): 
+- Prompt hỏi AI (nếu có): có dùng AI
 - Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Cách sửa / Bài học: [alt text](image-8.png)[alt text](image-9.png)![alt text](image-10.png)dùng AI để hiểu bài hơn và nâng cao trình đồ tư duy của bản thân
 
 ### Lần 8: Bài 3
 - Trạng thái: 
