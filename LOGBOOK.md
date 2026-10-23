@@ -13,7 +13,7 @@
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
 - Trạng thái: Chờ chấm
 - Prompt hỏi AI (nếu có):có hỏi AI
-- Lỗi phát hiện qua Test (nếu có): ![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)
+- Lỗi phát hiện qua Test (nếu có): [alt text](image.png)[alt text](image-1.png)[alt text](image-2.png)
 - Cách sửa / Bài học: 
 có nhờ AI fix đó, bài học sai vòng lập for và sai dấu chấm "," hay vì ";" và có dùng thềm chat bên VScode và lỗi sai ở phần else và em đã thieus điều kiện và quên nhấn space và có quên những lúc canh dòng và {}quen trọng 
 ### Lần 2: Bài 1
@@ -27,14 +27,16 @@ có nhờ AI fix đó, bài học sai vòng lập for và sai dấu chấm "," h
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
-
+- Trạng thái: chờ chấm
+- Prompt hỏi AI (nếu có): có dùng AI
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image-3.png)
+- Cách sửa / Bài học: có dùng AI fix ![alt text](image-4.png)
+[alt text](image-5.png)
+[alt text](image-6.png)
+hai hàm chỉ thực hiện tính toán không dùng printf để int màn hình và trong code em đã thêm printf để nó xuất ra màn hình
 ### Lần 5: Bài 2
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: chờ chấm
+- Lỗi / Cách sửa: nhớ chat do viết code bị trùng hàm nê text ko được [alt text](image-7.png)
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 
