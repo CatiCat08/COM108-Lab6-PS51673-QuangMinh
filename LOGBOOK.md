@@ -1,7 +1,7 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
+* **Họ và tên:** Vương Quang Minh
+* **Mã sinh viên:** PS51673
 * **Link Repository cá nhân:** 
 
 > [!NOTE]
@@ -12,10 +12,10 @@
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
 - Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
+- Prompt hỏi AI (nếu có):có hỏi AI
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image.png)![alt text](image-1.png)
 - Cách sửa / Bài học: 
-
+có nhờ AI fix đó, bài học sai vòng lập for và sai dấu chấm "," hay vì ";" và có dùng thềm chat bên VScode và lỗi sai ở 
 ### Lần 2: Bài 1
 - Trạng thái: 
 - Lỗi / Cách sửa: 
