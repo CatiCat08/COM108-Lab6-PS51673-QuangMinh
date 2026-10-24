@@ -40,7 +40,8 @@ hai hàm chỉ thực hiện tính toán không dùng printf để int màn hìn
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: chờ chấm 
-- Lỗi / Cách sửa: có dùng AI fix và AI đã fix và VScode cứ bảo faile và em cũng không bít cách fix sao cho nó không faile nữa
+- Lỗi / Cách sửa: có dùng AI fix và AI đã fix và VScode cứ bảo faile và em cũng không bít cách fix sao cho nó không faile nữa,
+Cập nhật sau khi commit bài 3: bài 2 nó đã tự pass
 
 ---
 
@@ -61,10 +62,10 @@ hai hàm chỉ thực hiện tính toán không dùng printf để int màn hìn
 ---
 
 ### Lần 10: Bài 4 - Radar Dò Điểm Nóng (Thermal Peak Detection)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: chờ chấm
+- Prompt hỏi AI (nếu có): có dùng AI [alt text](image-11.png)
+- Lỗi phát hiện qua Test (nếu có):[alt text](image-12.png)
+- Cách sửa / Bài học: dùng chat bên Vscode sửa giùm và em chú ý em hay thiếu dấu ; và , khá nhiều và không đăt tab đúng nơi
 
 ### Lần 11: Bài 4
 - Trạng thái: 
